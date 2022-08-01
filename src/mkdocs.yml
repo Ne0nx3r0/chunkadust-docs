@@ -2,7 +2,7 @@ site_name: 'Chunkadocs'
 site_url: 'https://docs.chunkadust.com/'
 docs_dir: 'docs'
 theme:
-  name: 'material'
+  name: 'mkdocs'
   features:
     - navigation.tabs
 nav:
@@ -13,7 +13,11 @@ nav:
         - 'Slicing': 'slicing.md'
         - 'Bed Types': 'bed_types.md'
         - 'Features': 'features.md'
-        - 'Popular Models': 'popular_models.md'
+    - 'Slicer Settings':
+        - 'Recommended Slicer Settings': 'slicer_settings.md'
+    - 'Recommended Printers':
+        - '3D Printer Models': 'popular_models.md'
+
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:

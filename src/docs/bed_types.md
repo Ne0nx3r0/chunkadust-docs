@@ -2,9 +2,23 @@
 
 ## Glass
 
+- Durable
+
+- Affordable
+
+- Can be difficult to remove prints
+
 ## Ceramic Coated Glass
 
+- Can be difficult to remove prints
+
 ## Magnetic Sheet
+
+- Flexible
+
+- Easily removed for cleaning
+
+- Doesn't last very long
 
 ---
 
