@@ -1,0 +1,20 @@
+site_name: 'Chunkadocs'
+site_url: 'https://docs.chunkadust.com/'
+docs_dir: 'docs'
+theme:
+  name: 'material'
+  features:
+    - navigation.tabs
+nav:
+    - Home: index.md
+    - Basics:
+        - 'What is a 3D Printer?': 'introduction.md'
+        - 'Filament': 'filament.md'
+        - 'Slicing': 'slicing.md'
+        - 'Bed Types': 'bed_types.md'
+        - 'Features': 'features.md'
+        - 'Popular Models': 'popular_models.md'
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - attr_list
