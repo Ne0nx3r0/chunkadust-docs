@@ -13,10 +13,8 @@ nav:
         - 'Slicing': 'slicing.md'
         - 'Bed Types': 'bed_types.md'
         - 'Features': 'features.md'
-    - 'Slicer Settings':
-        - 'Recommended Slicer Settings': 'slicer_settings.md'
-    - 'Recommended Printers':
-        - '3D Printer Models': 'popular_models.md'
+    - 'Slicer Settings': 'slicer_settings.md'
+    - 'Recommended Printers': 'popular_models.md'
 
 extra_css:
   - stylesheets/extra.css
